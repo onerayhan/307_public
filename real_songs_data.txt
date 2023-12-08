@@ -1,0 +1,26 @@
+song_name: Imagine
+length: 04:30
+tempo: 120
+recording_type: Studio
+listens: 5000
+release_year: 1971
+added_timestamp: 2023-01-15T12:30:00
+album_name: Imagine
+performer_name: John Lennon
+genre: Rock
+mood: Reflective
+instrument: Piano
+
+song_name: Bohemian Rhapsody
+length: 05:54
+tempo: 72
+recording_type: Studio
+listens: 10000
+release_year: 1975
+added_timestamp: 2023-02-10T15:45:00
+album_name: A Night at the Opera
+performer_name: Queen
+genre: Rock
+mood: Epic
+instrument: Guitar
+
